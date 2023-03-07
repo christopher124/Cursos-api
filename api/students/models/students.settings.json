@@ -2,8 +2,7 @@
   "kind": "collectionType",
   "collectionName": "students",
   "info": {
-    "name": "students",
-    "description": ""
+    "name": "students"
   },
   "options": {
     "increments": true,
