@@ -9,7 +9,7 @@ module.exports = ({ env }) => ({
         port: env.int("DATABASE_PORT", 3306),
         database: env("DATABASE_NAME", "Numer"),
         username: env("DATABASE_USERNAME", "root"),
-        password: env("DATABASE_PASSWORD", "hachiko42CHRIS42"),
+        password: env("DATABASE_PASSWORD", "sonido007"),
         ssl: env.bool("DATABASE_SSL", true),
       },
       options: {},
